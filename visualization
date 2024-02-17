@@ -1,0 +1,8 @@
+risknba kafka write -f 'path/to/file.json' --stand=prom/psi
+risknba kafka read --topic="resultevent" --stand=prom/psi (auto.commit: false, latest)
+risknba kafka --list=topics/groups --stand=prom/psi
+
+risknba calcver status - print last row cp.cals_status table
+risknba calcver history - last 20 days
+
+risknba db select --epkid=12312313
