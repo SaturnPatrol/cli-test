@@ -1,5 +1,5 @@
 /*
-Copyright © 2024 NAME HERE nikita-amirumov@mail.ru
+Copyright © 2024 NAME HERE
 */
 package main
 
